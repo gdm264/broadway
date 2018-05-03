@@ -1,0 +1,19 @@
+body {
+	font-family: Helvetica, san-serif;
+	text-align: center;
+}
+
+h1 {
+	font-size: 70px;
+	font-weight: bold;
+}
+
+.list {
+	font-size: 18px;
+	font-weight: bold;
+}
+
+.broadway {
+	background-color: gray;
+	color: white;
+}
